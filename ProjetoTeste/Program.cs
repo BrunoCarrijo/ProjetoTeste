@@ -10,6 +10,7 @@ namespace ProjetoTeste
             Console.WriteLine("Boa noite!");
             Console.WriteLine("Continuando testes no GIT");
             Console.WriteLine("Mais uma alteração!");
+            Console.WriteLine("TCHAU!!!");
             Console.ReadLine();
         }
     }
